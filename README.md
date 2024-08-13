@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on my first MERN project which is a Twitter like app. <br>I'm looking for part time job as web developer. 
+Not your typical tech guy liking front and back end. <br>I'm looking for part time job as web developer. 
 
 
 ## 🌐 Socials:
