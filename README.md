@@ -3,7 +3,7 @@ Not your typical tech guy liking front and back end. <br>I'm looking for part ti
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentinwestermeyer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Westermeyerv) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vlntnwest) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentinwestermeyer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vlntnwest) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vlntnwest) 
 
 # 💻 Tech Stack:
 
